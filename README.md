@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @zDany01
 - 👀 I’m interested in developing application
 - 🌱 I’m currently learning C#
+- 📫 How to reach me zdanyzeroonesoftware@gmail.com
 
 If you wanna see all my apps you can check this telegram channel: https://t.me/zDany01Software
 
