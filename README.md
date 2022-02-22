@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning C#
 - 📫 How to reach me zdanyzeroonesoftware@gmail.com
 
-If you wanna see all my apps you can check this telegram channel: https://t.me/zDany01Software
-
 <!---
 zDany01/zDany01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
