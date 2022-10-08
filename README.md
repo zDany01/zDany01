@@ -17,6 +17,8 @@
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11734095)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/zDany01_) 
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21zlqo3wjwalqgvz5glx3j3gq&cover_image=true&theme=novatorem&show_offline=false&bar_color=b14e4e&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=21zlqo3wjwalqgvz5glx3j3gq&redirect=true)
+
 ## GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=zDany01&theme=dark&hide_border=true&include_all_commits=false&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zDany01&theme=dark&hide_border=true)<br/>
