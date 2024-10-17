@@ -12,6 +12,7 @@
 ### Languages
 <p align="left">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-line.svg" alt="csharp" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" alt="java" width="40" height="40"/>
 </p>
 
@@ -32,8 +33,6 @@
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/zDany01_)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11734095)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/zDany01_) 
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21zlqo3wjwalqgvz5glx3j3gq&cover_image=true&theme=novatorem&show_offline=false&bar_color=b14e4e&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=21zlqo3wjwalqgvz5glx3j3gq&redirect=true)
 
 ## GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=zDany01&theme=dark&hide_border=true&include_all_commits=false&count_private=true)
