@@ -35,11 +35,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/zDany01_) 
 
 ## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=zDany01&theme=dark&hide_border=true&include_all_commits=false&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=zDany01&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zDany01&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zDany01&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zDany01&theme=onedark&no-frame=false&no-bg=true&margin-w=4">
-</div>
-<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zDany01&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 <div align="center"><img src="https://komarev.com/ghpvc/?username=zDany01&style=plastic"></div>
