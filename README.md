@@ -6,7 +6,8 @@
 <h4>Main Repository</h4>
 <a href="https://github.com/zDany01/WindowsITimeSync"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zDany01&theme=dark&hide_border=true&repo=WindowsITimeSync"></a>
 <a href="https://github.com/zDany01/Minecraft-Settings-Saver"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zDany01&theme=dark&hide_border=true&repo=Minecraft-Settings-Saver"></a>
- <a href="https://github.com/zDany01/CrossTacToe"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zDany01&theme=dark&hide_border=true&repo=CrossTacToe"></a>
+<a href="https://github.com/zDany01/CrossTacToe"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zDany01&theme=dark&hide_border=true&repo=CrossTacToe"></a>
+<a href="https://github.com/zDany01/RSMAPY"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zDany01&theme=dark&hide_border=true&repo=RSMAPY"></a>
 </div>
 
 ### Languages
